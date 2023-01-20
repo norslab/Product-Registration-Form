@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  a{
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  ul,ol{
+    list-style: none;
+  }
+  body{
+      background-color: #9bddc6;
+  }
+  .container{
+    max-width: 800px;
+    margin: 0 auto;
+    
+    padding: 0 20px;
+    color: #098df2;
+  }
+
+  .input-block{
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+   width: 600px;
+   height: 1060px;
+   background-color: aliceblue;
+}
+
+.title{
+    padding-top: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+   color: #098df2;
+  
+}
+.text{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.line{
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  margin-bottom: 60px;
+  
+}
+
+.label{
+    display: block;
+    margin-top: 30px;
+     margin-bottom: 6px;
+  }
+  
+.input{
+    padding: 10px;
+  width: 264px;
+  height: 36px;
+}
+.last-name{
+ margin-left: 20px;
+}
+.div{
+  display: flex;
+  margin-bottom: 20px;
+}
+.last-name-1{
+  margin-left: 22px;
+}
+
+.input-1{
+    width: 551px;
+    margin-bottom: 20px;
+}
+.input-2{
+  margin-bottom: 12px;
+}
+h2{
+  margin-top: 15px;
+  
+}
+.textarea{
+  display: flex;
+  margin-bottom: 6px;
+  
+}
+.textarea-1{
+  margin-left: 22px;
+}
+.textarea-text{
+ color: #918989;
+}
+.input-3{
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 160px;
+    height: 36px;
+}
+.input-4{
+ margin-bottom: 3px;
+}
+.textarea-2{
+   margin-bottom: 5px;
+}
+
+.button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    width: 200px;
+    height: 56px;
+    padding: 21px 40px;
+    text-align: center;
+   color: white;
+   background-color: green;
+   border-radius: 55px;
+
+}
